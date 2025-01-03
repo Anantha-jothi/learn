@@ -6,6 +6,11 @@ once again tried
  create a file
 
  insert
+
  add
+   => git add "test1.txt" (filename with extention)
+   => git commit -m "added"
+   
  commit
+
  push
