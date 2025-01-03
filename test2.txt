@@ -1,1 +1,11 @@
 once again tried
+
+ set directory
+ git status
+
+ create a file
+
+ insert
+ add
+ commit
+ push
