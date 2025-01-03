@@ -1,0 +1,8 @@
+here learned to upload a file into git
+
+=>git clone http 
+=> cd learn(folder)
+ => git status 
+ => git add "test1.txt" (filename with extention)
+ => git commit -m "added"
+ => git push origin main
